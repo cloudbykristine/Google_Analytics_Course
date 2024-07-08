@@ -83,7 +83,7 @@ This repository is dedicated to the projects and exercises completed during the 
 ## Resources
 
 - [Google Analytics Documentation](https://support.google.com/analytics#topic=1008008)
-- [Course Link](#) (Add the link to your course here)
+- [Course Link](#) (to be pasted)
 
 ## Contact
 
