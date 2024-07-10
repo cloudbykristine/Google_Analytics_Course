@@ -2,6 +2,8 @@
 
 Welcome to my repository for the Google Data Analytics Course! This repository contains all my projects, exercises, and notes as I progress through the course. It serves as documentation of my learning journey and showcases my growing proficiency in data analysis.
 
+IMPORTANT NOTE: This repository is in progress. 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
